@@ -33,5 +33,5 @@
 [pandas를 활용한 비디오 게임 데이터 분석](https://url.kr/f6endu)
 
 ### 결과 발표
-[게임 데이터 분석 결과 keynote](https://url.kr/i4n3dy)
+[게임 데이터 분석 결과 keynote](https://url.kr/i4n3dy)\
 [게임 데이터 분석 결과 발표 영상](https://youtu.be/2m-f3dtKzAw)
